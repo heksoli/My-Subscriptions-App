@@ -1,1 +1,1 @@
-# my-subscriptions-app
+# My Subscriptions App
