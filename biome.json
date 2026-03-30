@@ -30,5 +30,13 @@
 				"organizeImports": "on"
 			}
 		}
+	},
+	"css": {
+		"parser": {
+			"cssModules": true,
+			"allowWrongLineComments": true,
+			"tailwindDirectives": true
+		},
+		"linter": { "enabled": true }
 	}
 }
